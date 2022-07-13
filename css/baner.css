@@ -1,0 +1,38 @@
+.baner{
+    display: block;
+    color: white;
+    background-color: #202020;
+    height: 35rem;
+}
+
+.titulo{
+    background-color: #202020;
+    font-size: 4rem;
+    position: relative;
+    top: 5rem;
+    left: 4rem;
+    width: 100rem;
+}
+
+.texto{
+    background-color: #202020;
+    font-size: 1.3rem;
+    position: relative;
+    top: 7rem;
+    left: 4rem;
+    width: 100rem;
+}
+
+.logoN{
+    background-color: #202020;
+    position: relative;
+
+    left: 73rem;
+    bottom: 14rem;
+}
+
+.botonb{
+    position: relative;
+    bottom: 15rem;
+    left: 4rem;
+}
